@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Badabooouum</title>
+</head>
+
+<h1>BADABOOM💣</h1>
+
+
+<h2><u>Sommaire: </u></h2>
+
+<p>OBJECTIF ET MOTIVATION……………………………….……….….….2<br>
+L’ORGANISATION DU TRAVAIL EN ÉQUIPE…….…....……...………...3<br>
+DESCRIPTION DES ÉLÉMENTS DU PROGRAMME……………...…….4<br>
+DEVELOPPEMENT THEORIQUE……………….…..………………….....5<br>
+BIBLIOGRAPHIE/SITOGRAPHIE……………………………….………...6<br>
+
+
+
+<img src="https://image.freepik.com/vecteurs-libre/bombe-bande-dessinee-vecteur_97886-2416.jpg" height="100" width="100"> <img src="https://image.flaticon.com/icons/png/512/85/85265.png" height="100" width="100"> <img src="https://image.freepik.com/vecteurs-libre/bombe-bande-dessinee-vecteur_97886-2416.jpg" height="100" width="100">
+
+
+<h2><u>Cahier des charges:</u></h2>
+
+<ol>
+  <li>Faire une bombe</li>
+  <li>Un timer + Bruit</li>
+  <li>Implémenter le dictionnaire Français</li>
+  <li>Générateur de lettres</li>
+  <li>Faire apparaître les lettres en même temps</li>
+  <li>Zone pour écrire</li>
+</ol>
+
+
+
+<h2><u>Notre objectif et nos motivations:</u></h2>
+
+<p>On a voulu créer un jeu qui attire et fait réfléchir le joueur. L’objectif de notre projet est de créer un jeu qui plaît à tout le monde. A partir de quelques lettres donnés par le jeu, il faudrait écrire le plus vite possible un mot qui contient ces lettres. Cependant après quelques erreurs ou après un certain temps, la bombe va exploser et donc le joueur sera éliminé.
+</p>
+
+<h2><u>L'Organisation du travail en équipe:</u></h2>
+
+<p>Après avoir discuté et donner nos avis sur les projets proposés, on a décidé de travailler sur cette idée de “Badaboooom”. Tout d’abord nous avons mis au point, sur feuille, le cahier des charges (voir ci-dessus), pour visualiser notre projet. Ensuite, nous avons programmés ensemble les fonctions dont nous aurons besoin pour notre programme “Badaboooom”. Après on a cherché un minuteur pour l’ajouter à notre projet, ainsi que quelques mots d’un dictionnaire. Ensuite, nous avons répartit le travail pour avancer sur ce projet chez soi.
+</p>
+
+<h2><u>Description des différents éléments du programme:</u></h2>
+
+<ul>
+  <li><b>La bombe</b> = c’est l’élément essentiel de ce logiciel car si le joueur ne respecte pas le temps donné, c’est “Game Over”;</li>
+  <li><b>Le dictionnaire</b> = quand un joueur propose un mot, le logiciel ouvre le dictionnaire et cherche si ce mot est présent dans la langue française et si oui, le logiciel Badaboooom passe au prochain mot;</li>
+  <li><b>Le minuteur</b> =  le joueur doit proposer un mot tout en respectant le temps donné par le logiciel. Si le joueur dépasse le temps donné, alors la bombe explose.
+</li>
+</ul>
+
+<h2><u>Développement Théorique:</u></h2>
+
+<p>La partie la plus intéressante de notre projet sur “Badaboooom” est le rôle du dictionnaire, qui doit chercher dans sa liste de tous les mots qui existent dans la langue française, le mot introduit par le joueur, pour pouvoir ensuite vérifier s’il s’agit d’un mot qui existe. </p>
+
+<h2><u>Bibliographie/Sitographie:</u></h2>
+
+</body>
+
